@@ -14,3 +14,5 @@ y visualizar el resultado en la consola.
 
 La solución de los ejercicios con comentarios se puede ver en la rama "solución".
 
+También podéis ver la solución de [Almudena Raya](https://github.com/rayaalmudena/ejercicio-js-basicos-variables) 
+
