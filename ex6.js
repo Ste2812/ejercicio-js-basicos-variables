@@ -12,9 +12,12 @@
  * 
  */
 
-let numeroPi = Math.PI
+let numeroPi = Math.PI;
+let radio= 10;
 console.log("Valor de PI:", numeroPi)
+console.log("El area de un círculo de radio", radio, "es de", numeroPi*radio*radio, "m2")
 
 /**
  * BONUS: Muestra el mensaje de tal manera que el número devuelto esté redondeado a dos decimales. Es decir, para un radio de 3, el mensaje debería ser: ""El area de un círculo de radio 3 es de 28.27 m2"
  */
+console.log("El area de un círculo de radio", radio, "es de", Math.round(numeroPi*radio*radio*100)/100, "m2");
