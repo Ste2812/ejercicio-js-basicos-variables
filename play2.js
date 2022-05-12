@@ -8,7 +8,8 @@
 
 let nombre = "Sara";
 let apellidos = "Romero Ortiz";
-let fechaNacimiento = "1992";
+let fechaNacimiento = "19 de Mayo de 1982";
+let numeroAnimales = 1;
 let dni = "12345679A";
 
 // Lo más importante es poner un nombre a la variable que indique el tipo de información que almacena. por ejemplo 'fecha' no seria adecuado para indicarl a fecha de nacimiento, porque no especifica 'que tipo de fecha es'.
